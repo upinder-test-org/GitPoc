@@ -21,6 +21,8 @@ namespace VSProjectDemo
             Console.WriteLine("Line 5");
             Console.WriteLine("Line 6");
             Console.WriteLine("Line 7");
+            Console.WriteLine("Line 8");
+            Console.WriteLine("Line 9");
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
         }
     }
